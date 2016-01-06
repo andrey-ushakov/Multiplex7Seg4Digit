@@ -12,6 +12,8 @@ Components
 - 2 x 8-Bit Shift Registers SN74HC595N
 - 1 x 7-Segment 4-Digit 12-Pins Display (like 3641BH or analogs)
 
+![display](https://cloud.githubusercontent.com/assets/12819691/12157793/9e9a5f2e-b4d4-11e5-90cf-d82bd730de77.jpg)
+![shiftreg](https://cloud.githubusercontent.com/assets/12819691/12157794/9ec16286-b4d4-11e5-91eb-9ae6250ecea3.jpg)
 
 
 ## Wiring
