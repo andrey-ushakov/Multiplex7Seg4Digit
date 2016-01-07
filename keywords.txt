@@ -1,0 +1,3 @@
+Multiplex7Seg4Digit	KEYWORD1
+clear	KEYWORD2
+displayNum	KEYWORD2
