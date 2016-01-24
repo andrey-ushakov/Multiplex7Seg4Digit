@@ -18,5 +18,4 @@ Components
 
 ## Wiring
 ![7_segment_display](https://cloud.githubusercontent.com/assets/12819691/12158834/e20ffef4-b4dd-11e5-824e-3b215889a6b4.png)
-![wiring](https://cloud.githubusercontent.com/assets/12819691/12357733/e66853c0-bba9-11e5-9b47-4d87c711be20.png)
-
+![wiring](https://cloud.githubusercontent.com/assets/12819691/12539320/6948212e-c2f0-11e5-8185-a49ff1248160.png)
